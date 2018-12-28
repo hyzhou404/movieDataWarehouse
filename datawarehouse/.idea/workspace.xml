@@ -1,31 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="c3291de0-280e-4d53-b0a7-c5adce8e3b5a" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/basic/neo4jAddInex.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Global/Results.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Global/Results.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Query/mysqlQuery.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Query/mysqlQuery.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Query/neo4jQuery.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Query/neo4jQuery.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Query/runFunction.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Query/runFunction.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/RelationAndType/ExpTypes.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/RelationAndType/ExpTypes.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/UI/QueryAndStatistics.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/UI/QueryAndStatistics.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/imports/neo4jImport.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/question-mark (1).png" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/pictures/question-mark (1).png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/question-mark.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/pictures/question-mark.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/question.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/pictures/question.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Global/Results.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Global/Results.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Query/myQuery.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/RelationAndType/ExpTypes.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/RelationAndType/ExpTypes.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/UI/QueryAndStatistics$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/UI/QueryAndStatistics$1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/UI/QueryAndStatistics$2.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/UI/QueryAndStatistics$2.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/UI/QueryAndStatistics.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/UI/QueryAndStatistics.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/neo4jExp.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/question-mark (1).png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/question-mark.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/question.png" beforeDir="false" />
-    </list>
+    <list default="true" id="c3291de0-280e-4d53-b0a7-c5adce8e3b5a" name="Default Changelist" comment="" />
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -50,11 +26,11 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/Query/mysqlQuery.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="396">
-              <caret line="18" column="49" lean-forward="true" selection-start-line="18" selection-start-column="49" selection-end-line="18" selection-end-column="49" />
+            <state relative-caret-position="550">
+              <caret line="25" column="45" lean-forward="true" selection-start-line="25" selection-start-column="45" selection-end-line="25" selection-end-column="45" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -62,7 +38,7 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/java/key/key.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="132">
@@ -211,7 +187,7 @@
       <select />
     </treeState>
   </component>
-  <component name="ProjectFrameBounds">
+  <component name="ProjectFrameBounds" extendedState="1">
     <option name="x" value="10" />
     <option name="y" value="35" />
     <option name="width" value="1920" />
@@ -275,6 +251,14 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="key" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="datawarehouse" type="b2602c69:ProjectViewProjectNode" />
+              <item name="datawarehouse" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="Query" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -303,6 +287,15 @@
             <path>
               <item name="datawarehouse" type="b2602c69:ProjectViewProjectNode" />
               <item name="datawarehouse" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+              <item name="data" type="462c0819:PsiDirectoryNode" />
+              <item name="movie.db" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="datawarehouse" type="b2602c69:ProjectViewProjectNode" />
+              <item name="datawarehouse" type="462c0819:PsiDirectoryNode" />
               <item name="target" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
@@ -316,7 +309,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1545995654097" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1545995696053" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="project.structure.last.edited" value="Modules" />
@@ -400,15 +393,15 @@
       <workItem from="1545871101270" duration="1048000" />
       <workItem from="1545872190782" duration="28223000" />
       <workItem from="1545927464807" duration="18961000" />
-      <workItem from="1545994012822" duration="1254000" />
+      <workItem from="1545994012822" duration="1970000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="78147000" />
+    <option name="totallyTimeSpent" value="78863000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="8" y="28" width="1536" height="824" extended-state="0" />
+    <frame x="8" y="28" width="1536" height="824" extended-state="1" />
     <editor active="true" />
     <layout>
       <window_info id="Designer" order="0" />
@@ -416,7 +409,7 @@
       <window_info id="Capture Tool" order="2" />
       <window_info id="Favorites" order="3" side_tool="true" />
       <window_info id="Image Layers" order="4" />
-      <window_info content_ui="combo" id="Project" order="5" visible="true" weight="0.2699594" />
+      <window_info active="true" content_ui="combo" id="Project" order="5" visible="true" weight="0.2699594" />
       <window_info id="Structure" order="6" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Docker" order="0" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="1" />
@@ -714,20 +707,20 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Query/mysqlQuery.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="550">
+          <caret line="25" column="45" lean-forward="true" selection-start-line="25" selection-start-column="45" selection-end-line="25" selection-end-column="45" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/key/key.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="132">
           <caret line="6" lean-forward="true" selection-start-line="6" selection-end-line="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/Query/mysqlQuery.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="396">
-          <caret line="18" column="49" lean-forward="true" selection-start-line="18" selection-start-column="49" selection-end-line="18" selection-end-column="49" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
