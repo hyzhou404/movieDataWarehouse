@@ -71,7 +71,7 @@ public class QueryAndStatistics extends Application {
             runButton.setFont(new Font(20));
             //帮助按钮
             Button help = new Button();
-            help.setGraphic(new ImageView("question-mark.png"));
+            help.setGraphic(new ImageView("pictures/question-mark.png"));
             help.setAlignment(Pos.CENTER);
             //结果显示
             TextArea resultText = new TextArea("Waiting for Instructions");
